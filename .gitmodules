@@ -1,0 +1,6 @@
+[submodule "LibWebDriverAgent"]
+	path = lib/appium-xcuitest-driver/WebDriverAgent
+	url = https://github.com/facebook/WebDriverAgent.git
+[submodule "WebDriverAgent"]
+	path = orig/appium-xcuitest-driver/WebDriverAgent
+	url = https://github.com/facebook/WebDriverAgent.git
